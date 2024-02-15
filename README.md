@@ -5,6 +5,8 @@ This project presents an annual sales report for an ecommerce business using Pow
 Overview
 The ecommerce annual sales report is designed to analyze and visualize sales data for the past year. It provides a comprehensive overview of sales performance, including revenue, top-selling products, customer demographics, and geographical distribution.
 
+![Biproimg](https://github.com/HamirAditya/AnnualSalesReport/assets/160116915/023b449a-66c0-44c1-82e5-2b3ea95aaa62)
+
 Features
 Interactive dashboard showcasing key sales metrics.
 Visualization of revenue trends over the past year.
